@@ -1,4 +1,4 @@
-# Types 
+# Types Strings
 
 M = 12/3
 A = 12 + 3j
